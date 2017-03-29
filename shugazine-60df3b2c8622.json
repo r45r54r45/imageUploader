@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "valued-cumulus-153205",
+  "private_key_id": "60df3b2c862252088dc428d3e659c9bb7b1e2fff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDFao52LUVsVl8O\nlqV5KiqXxmfnTTZ9y/C3+IhqjcLkhDAvh3M3J0SGvzYfs7FMeOPzLN/E1NLHZozt\npI6w3N5vbsb1rfaBEktgIwpjKHhCHnqi4P9Q1KCDQqiQ1MjaWrMjHXIxc7XVg5nA\nK269Q2rWVbGRCFv3IGyAMux5sgXrA7JickoUMQApm4iQ0xRUlzUySbUR2EnGCF5m\nmvU0857/J0vUQ9PYI2m4am8FDrFECyO1rBOgs4OnQlOTQ0sGhmgK1ILuSaLmkZmW\nmmnUOYqR1wUA9zesCEOGeoNd/JAcK7705q4R1xKZaaHEr/IFxFaNIkpxXdLmM4a4\nBxH6gWFbAgMBAAECggEAZRt+3R2wiZzu0EztcNHcwKD4BCmyd9kkb0SVsWTrZRgi\niaUoqB2vZge2U6Q3cQAVVy0raebKER//m5KFFiX4sj+dHKS9NDvHaPRpVIGcndh4\nXMU5Xg+YKcHRDWQ9fj+nsZtaKeOmRDVDYH2eGMbXh/CZobsTRs1PZJUwMd+wUj1J\ns5hiGZ2tmsac+ie0j8bIcGdvCe61mOt0RPqR3hDQfa1hes42BXsdvy0lqEXMJmOc\nVQ41oGyvKmBACineSHCj5vJnwMq88dI4DwRK4oBDPrFVgPBee38EhS2LZz/cW49N\nz3YbrM1Iw6ioErJJ2NujXWgPubeG4/Xlz128GqzL0QKBgQD70/lIbf7vAva+/m0C\nYpF4NYq6H3amCECnhd0sFN2g6QE+fjQsS8TsPpMu1keVjpM9YZIzeHqG/aLy3T2L\nXjIuay8MeuvSTUpOH10IfwovFtFun1uEczxF1VTOPwpcmUVZWinRqINrziJyTL4G\nG3sRApoAH/BmpkRJ3b407MMECQKBgQDIr9E3BdzVa6asUvmdzjYH3CwO4YcViAB3\nIsT6pH4wMS3/i48p8wj1lWXgcg1PvSCv64vPX3ZpBsSSSnuJWdr/wsI3/9Q7yMNN\nj7hAdkUO3iU69kot+MG9fIkqq27ruQ3hBra0eDUUBzz/cEzM9rbqY/9gjW1TojuZ\n1NHNdA97QwKBgBxCCwT/os27LWj9L8pGuUAd8fU0tqGm52pk8Q6TQNNfkg4rJzuZ\nPP2tf+KPlPTJTOhkXH1+FXG0YGaUQOW0qjjfOiZSXMf6eE4P4uajKsdh7hpVs3VH\nYQoNCDkkhcsiP8/o+CxYlnawaNkel2wkBUlBW3qMGvPJ0HvhcAiMUM3RAoGBAL+H\n5OFhjAB3zEt8qVStYK2huL6/CSBIe0E4gsw/P1uZJDBWrly34Z4YZnGOCBxJATBE\nWlug3S6hUevYgAx3IGamJpwxYglostSMTKng9kmZQ+kA84zqc2T3vSVnFeaM560S\nrj6Q1v91ZQbY08Nt1ubeZvVsJKIEHGPVVCKEGN5nAoGAFJy2I1oH5B5vT8ngyUq8\nYL2b9eiZHXQWTw6N/hVr/6PWodxvudSRLNB+DqKFHNwzKHiseYlNGo4lMf170ZuL\nJdqBsDgU3pnmgQ5gtPV1fcU666bCoD7eclJnzbWQDX5KG8JrGX09wI1WxsvgTW30\nDRqrppNK1gP637K2dW5SfZs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "localserver@valued-cumulus-153205.iam.gserviceaccount.com",
+  "client_id": "100125739179818475111",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/localserver%40valued-cumulus-153205.iam.gserviceaccount.com"
+}
